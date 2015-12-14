@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ROns Digitale Service]]></title>
+        <description><![CDATA[ROns Digitale Service]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Dec 2015 22:09:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ron's Digitale Service]]></title>
+            <description><![CDATA[<article><h1>Ron's Digitale Service</h1><p>Informatie. Communicatie. Technologie. ICT, een onmisbaar fenomeen voor ieder bedrijf, wat probleemloos en altijd moet werken. Als full-service ICT partner biedt rods u alle facetten in de automatisering en ICT gerelateerde zaken om dit mogelijk te maken. En meer!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bb959ab7817656dc19659d3d1c9bc72854d8bdd.png"></article>]]></description>
+            <link>http://rods.nl/</link>
+            <guid isPermaLink="false">d3af03e7-428f-4ac6-b071-acc7d3127d86</guid>
+            <pubDate>Mon, 14 Dec 2015 22:09:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
