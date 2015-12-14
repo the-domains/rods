@@ -1,0 +1,28 @@
+name: Rods
+favicon: null
+layout_spectrum: 0.930100666359067
+typography_spectrum: 0.7209774320945144
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.407537498511374
+  lightness: 0.028479597065597773
+  saturation: 0.3989550727419555
+  rhythmicContrast: 0.8575696642510593
+purpose: []
