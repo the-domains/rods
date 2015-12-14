@@ -12,8 +12,8 @@ inLanguage: nl
 app_links: []
 isBasedOnUrl: 'http://rods.nl/'
 title: "Ron's Digitale Service"
-datePublished: '2015-12-14T22:09:09.449Z'
-dateModified: '2015-12-14T22:07:44.072Z'
+datePublished: '2015-12-14T22:10:37.208Z'
+dateModified: '2015-12-14T22:09:44.913Z'
 sourcePath: _posts/2015-12-14-rons-digitale-service.md
 published: true
 inFeed: true
