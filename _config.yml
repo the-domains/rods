@@ -1,6 +1,6 @@
 name: Rods
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.06685
 typography_spectrum: 0.69987
 title: ROns Digitale Service
 cta:
@@ -23,7 +23,7 @@ color:
     - '#006633'
     - '#005500'
   brandStrength: 0.1875
-  lightness: 0.028479597065597773
-  saturation: 0.3989550727419555
-  rhythmicContrast: 0.8575696642510593
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
